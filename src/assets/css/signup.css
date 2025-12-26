@@ -1,0 +1,10 @@
+.register-card {
+  background: linear-gradient(135deg, #ffffff, #f1fff6);
+  border-radius: 20px;
+  box-shadow: 0 15px 40px rgba(0,0,0,0.12);
+}
+
+.register-card input {
+  border-radius: 12px;
+  padding: 14px;
+}
